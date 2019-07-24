@@ -1,7 +1,7 @@
 package com.finalproject.java.designpattern.facade;
 
-import com.designpattern.base.BikeInterface;
-import com.designpatterns.singlton.SerialNumberGenerator;
+import com.finalproject.base.GadgetInterface;
+import singleton.SerialNumber;
 
 public class Registration {
     private GadgetInterface gadget;

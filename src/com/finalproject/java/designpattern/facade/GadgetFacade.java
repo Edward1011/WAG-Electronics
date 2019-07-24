@@ -10,5 +10,11 @@ public class GadgetFacade {
         Gadget.VerifyingPurchase();
         Gadget.CheckingOrder();
         Gadget.InspectingParts();
+
+        gadget.Switch();
+
+        gadget.Button();
+
+        gadget.Light();
     }
 }
